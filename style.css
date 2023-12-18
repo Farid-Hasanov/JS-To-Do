@@ -14,9 +14,39 @@ a:hover {
   padding: 100px 0;
 }
 #todo .box {
-  background-color: #a4caff;
-  width: 250px;
+  background-color: #6f7cb1;
+  width: 270px;
   height: 230px;
   border-radius: 20px;
   text-align: center;
+}
+#todo .box h1 {
+  font-size: 40px;
+  color: #ffffff;
+  padding: 20px 0 25px;
+  font-weight: 700;
+}
+#todo .box input {
+  padding: 17px;
+  border-radius: 20px;
+  margin-bottom: 25px;
+  font-size: 18px;
+}
+#todo .box .btn {
+  border-radius: 20px;
+  background-color: #ffffff;
+  padding: 8px 25px;
+}
+#todo .minibox {
+  width: 200px;
+  margin-top: 20px;
+  text-align: center;
+}
+#todo .minibox h2 {
+  font-size: 23px;
+  border: 2px solid #5d6d7e;
+  margin: 10px;
+  padding: 8px;
+  border-radius: 20px;
+  word-break: break-all;
 }/*# sourceMappingURL=style.css.map */
